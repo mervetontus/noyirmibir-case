@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+.home{
+   background-image: url(../images/tyre3.webp);
+   background-size: cover;
+   height: 500px;
+   background-repeat: no-repeat, repeat;
+}
+
+.home-title{
+    margin-top: 20px;
+    padding-top: 100px;
+    color:white;
+    align-content: center;
+    text-align: center;
+    font-size: 80px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button-text{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ED1C24;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: white;
+    height: 40px;
+    width: 10rem;
+    border: none;
+    margin-left: 48rem;
+}
+
+button:hover{
+    background-color: silver;
+}

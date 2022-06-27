@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.container{
+    margin: 0;
+    padding: 20px;
+    background-color: #F9F6F6;
+}
+
+.featured-title{
+    color: #400E03;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box{
+    display: inline-block;
+    margin-right: 10px !important;
+    color: #400E03;
+    width: 300px;
+    height: 180px;
+    border: 1px solid #E5E5E5;
+    background-color: white;
+    border-bottom: 4px solid #ED1C24;
+}
+
+.box h1{
+    color: #400E03;
+    font-size: medium;
+}
+
+button{
+    font-size: small;
+    border:none;
+    width:120px;
+    height:30px;
+}
+
+.learn-button{
+    color:#ED1C24;
+    background-color: #FDE4E5;
+    margin-right: 5px;
+}
+
+.find-button{
+    background-color:#ED1C24;
+    color: #FDE4E5;
+}
+
+.carousel-status{
+    display: none;
+}
+
+.carousel.control-dots{
+    bottom:-20px;
+  
+}
+
+.carousel.carousel-slider{
+    height: 220px;
+}
+
+.control-arrow {
+    color: #400E03;
+    background-color: #400E03;
+}
+.carousel .control-dots .dot{
+    color: #ED1C24 !important;
+    background-color: #ED1C24 !important;
+    width: 10px !important;
+    height: 10px !important;
+    box-shadow: none;
+}
+
+.carousel.carousel-slider .control-arrow{
+    color:#400E03 !important;
+    background-color: #400E03 !important;
+    width: 40px!important;
+    height: 40px!important;
+    display: block !important;
+    opacity: 1 !important;
+}

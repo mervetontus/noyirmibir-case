@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.video-container{
+    background-color: #434448;
+}
+
+.video-text{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 40px;
+    color: white;
+    width: 600px;
+    height: 100px;
+}
+
+.link-button{
+    background-color: white;
+    float: right;
+    margin-top: -50px;
+    margin-right: 100px;
+    width: 18rem;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color:#ED1C24;
+    font-weight: bolder;
+    background-color: white;
+}
+
+.video{
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
